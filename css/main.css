@@ -33,7 +33,7 @@ font-family: 'Poppins', sans-serif; */
   --text-color: var(--white);
   --title-1: var(--wheat);
   --project-card-bg: var(--black);
-  --project-card-text: var(--white);
+  --project-card-text: var(--wheat);
   --box-shadow: 0px 5px 35px rgba(0, 0, 0, 0.8);
 }
 
